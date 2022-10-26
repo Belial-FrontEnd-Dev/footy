@@ -406,7 +406,9 @@ body {
   border-radius: 5px;
   background-color: #202020;
 }
-
+.firstIcon img{
+  width:100%;
+}
 .first-product h2 {
   color: white;
 }
